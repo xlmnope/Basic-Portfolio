@@ -42,6 +42,11 @@ h3 {
   padding: .5% 5% 1% 5%;
 }
 
+.btn-primary {
+  background-color:  #4aaaa5;
+  color: white;
+  border-color: #4aaaa5;
+}
 .footer {
   position: absolute;
   bottom: 0;
