@@ -6,7 +6,7 @@
 body {
   background-color: #ededed;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  color: grey;
+  color: #777777;
  
 }
 
@@ -29,6 +29,11 @@ h3 {
   padding-left: 5%;
 }
 
+.about {
+  border-color: #dddddd;
+  overflow: auto;
+}
+
 .abouttext {
   padding: 0% 5%;
 }
@@ -42,6 +47,12 @@ h3 {
   padding: .5% 5% 1% 5%;
 }
 
+.portthumb {
+  width: 200px;
+  float: left;
+  margin: 10px 10px 10px 0px;
+  height: 100px;
+}
 .btn-primary {
   background-color:  #4aaaa5;
   color: white;
@@ -57,3 +68,6 @@ h3 {
   border-top: 5px solid #4aaaa5;
 }
 
+.margin5 {
+  margin-left: 5%;
+}
